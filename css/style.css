@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(126, 117, 117);
+  }
+  
+#thank,h1{
+    color: blue;
+}
+
+.class01,#thank,.error,h1{
+    text-align: center;
+}
+
+.class01{
+    color: rgb(235, 158, 135);
+    font-size: 30px;
+}
+
+.color,#check{
+    color: blue;
+    font-size: 35px;
+}
+
